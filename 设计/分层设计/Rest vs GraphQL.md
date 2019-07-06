@@ -1,12 +1,22 @@
 # 概述
 
+## 资源
+
+https://apis.guru/ api工具，帮助开发人员使用GraphQL和OpenAPI / Swagger
+https://www.baeldung.com/spring-graphql Getting Started with GraphQL and Spring Boot
+https://www.jianshu.com/p/203dd28eac4f?from=timeline GraphQL初探：一种强大的DSQL
+http://www.ruanyifeng.com/blog/2011/09/restful.html 理解RESTful架构
+http://www.ruanyifeng.com/blog/2014/05/restful_api.html 设计指南
+http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html  RESTful API 最佳实践
+wiki  
+
 ## 我个人的疑惑
 
-Rest把所有的数据看做是Resource，Resource之间有关联关系。  
+Rest把所有的数据看做是Resource，怎么来表示Resource之间的关联关系？   
 用户会对Resource进行各种操作：CURD，其中U操作和R操作最为复杂。  
 很大程度上数据是实体的映射，我们对实体的操作是非常复杂的。  
 
-## 为什么说 GraphQL 可以取代 REST API？
+## GraphQL vs REST API？
 
 https://www.infoq.cn/article/LVQGuC3vQX-T3PpVCkHt  为什么说 GraphQL 可以取代 REST API？  
 http://www.infoq.com/cn/articles/understanding-restful-style  理解本真的 REST 架构风格  
@@ -32,8 +42,3 @@ GraphQL 加速了开发速度，提升了开发者体验，并提供了更好的
 
 使用了其他一些 JSON schema 或序列化格式。
 
-## 资源
-
-https://apis.guru/ api工具，帮助开发人员使用GraphQL和OpenAPI / Swagger
-https://www.baeldung.com/spring-graphql Getting Started with GraphQL and Spring Boot
-https://www.jianshu.com/p/203dd28eac4f?from=timeline GraphQL初探：一种强大的DSQL

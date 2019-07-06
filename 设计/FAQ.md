@@ -30,3 +30,10 @@ admin的权限太高，可以给任何人授权。实际上，权限应该给应
 省级单位 > 市级单位 > 区县级单位，这里面是否也有角色的层次关系呢？  
 单位 < 员工，单位 < 领导  
 实际上单位管理和用户管理不应该混在一起  
+
+## 其他
+
+时区问题汇总
+https://en.wikipedia.org/wiki/List_of_tz_database_time_zones 时区和国际化的问题
+java jdbc 数据库 linux
+

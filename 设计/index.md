@@ -146,7 +146,8 @@ POI导入/导出
 http://www.cnblogs.com/davenkin/p/6612656.html 领域事件
 http://www.uml.org.cn/sjms/201211023.asp#2 设计模式6大原则
 
-封装/重载/继承(多态)/命名空间/泛型/模板/
+封装(指令/数据）/重载/继承(多态)/命名空间/泛型/模板/
+OOP/AOP/函数式/反应式/异步编程，链式调用
 插件式/继承式/组合式/has/切面式
 
 代码进化  
@@ -167,6 +168,12 @@ http://blog.csdn.net/rickiyeat/article/details/52512355 工作日/节日问题
 http://www.importnew.com/19761.html guava库函数式编程
 
 分布式/微服务
+
+##### 抽象
+
+过程抽象：面向接口编程，函数式编程，AOP  
+数据结构抽象/泛型化：模板  
+封装：面向对象编程  
 
 ### 数据设计
 
